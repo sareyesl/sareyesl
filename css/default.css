@@ -1,0 +1,95 @@
+/* Theme Name: Sunroy - Responsive Bootstrap 4 Construction Template
+   Author: Thamesbrand
+   Version: 1.0.0
+   Created: April 2018
+   File Description: Default color css
+*/
+
+.navigation-menu .has-submenu.active > a,
+.navigation-menu .has-submenu.active .active > a,
+#topnav .navigation-menu > li:hover > a,
+#topnav .navigation-menu > li > a:hover,
+#topnav .navigation-menu > li .submenu li a.active,
+#topnav .navigation-menu > li.has-submenu.open > a,
+#topnav .menu-extras .menu-item .cart > a:hover,
+#topnav .menu-extras .menu-item .search > a:hover,
+#topnav.bg-transparent .navigation-menu > li:hover > a,
+#topnav.bg-transparent .has-submenu.active a,
+#topnav.bg-transparent .has-submenu.active .submenu li.active > a,
+#topnav.bg-transparent .navigation-menu > li .submenu li a:hover,
+#topnav .navigation-menu .submenu.open .has-submenu.open > a,
+.tagline .email a:hover,
+.tagline .top_socials a:hover,
+.tagline_top_socials li a:hover,
+.text-custom,
+.btn-custom-outline,
+#topnav .navigation-menu > li .submenu li a:hover,
+#topnav .navigation-menu .has-submenu .submenu > li:hover > a, 
+.container-filter li a.active,
+.container-filter li a:hover,
+.post-title a:hover,
+.post-meta a:hover,
+.post-meta a:focus,
+.post-more a:hover,
+.widget ul li a:hover,
+.widget ol li a:hover  {
+    color: #fbac02 !important;
+}
+
+#topnav .has-submenu.active .menu-arrow,
+#topnav .navigation-menu > li:hover > .menu-arrow,
+.btn-custom,
+.btn-custom-outline,
+.btn-outline-white:hover,
+.btn-outline-white:focus,
+.btn-outline-white:active,
+.btn-outline-white.active,
+.btn-outline-white.focus,
+.btn-outline-white:active,
+.btn-outline-white:focus,   
+.btn-outline-white:hover,
+.open > .dropdown-toggle.btn-outline-white,
+.btn-custom-outline:hover,
+.btn-custom-outline:focus,
+.btn-custom-outline:active,
+.btn-custom-outline.active,
+.btn-custom-outline.focus,
+.btn-custom-outline:active,
+.btn-custom-outline:focus,
+.btn-custom-outline:hover,
+.open > .dropdown-toggle.btn-custom-outline {
+    border-color: #fbac02 !important;
+}
+
+#topnav .navigation-menu > li .submenu {
+    border-top: 3px solid #fbac02;
+}
+
+#topnav .navbar-toggle.open span:hover,
+.owl-theme .owl-controls .owl-page span,
+.bg-custom,
+.btn-custom,
+.btn-custom-outline:hover,
+.btn-custom-outline:focus,
+.btn-custom-outline:active,
+.btn-custom-outline.active,
+.btn-custom-outline.focus,
+.btn-custom-outline:active,
+.btn-custom-outline:focus,
+.btn-custom-outline:hover,
+.open > .dropdown-toggle.btn-custom-outline,
+.btn-outline-white:hover,
+.btn-outline-white:focus,
+.btn-outline-white:active,
+.btn-outline-white.active,
+.btn-outline-white.focus,
+.btn-outline-white:active,
+.btn-outline-white:focus,
+.btn-outline-white:hover,
+.open > .dropdown-toggle.btn-outline-white,
+.social-icon a:hover,
+.play-icon-circle,
+.cn-counter-icon i,
+.tagcloud > a:hover {
+    background-color: #fbac02;
+}
